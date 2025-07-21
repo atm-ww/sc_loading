@@ -1,0 +1,1 @@
+print("^1sc_loading ^2- ^3Crafted ^4by ^5vee")
