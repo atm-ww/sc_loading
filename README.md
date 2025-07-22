@@ -1,5 +1,4 @@
 # vee RP Loading Screen
-https://discord.gg/sbzeGGUS
 ## Description
 
 This is a custom loading screen for vee RP FiveM server. It features a YouTube video background, background music, a server name display with a light bar animation, and random tips that appear periodically.
