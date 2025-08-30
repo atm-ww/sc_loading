@@ -1,6 +1,6 @@
 # vee RP Loading Screen
 ## Description
-
+https://cdn.discordapp.com/attachments/1401886690582204497/1401896720865951925/Desktop_2025.07.21_-_21.03.21.03.mp4?ex=68b43890&is=68b2e710&hm=7b8fb29bc834f80fb1e755ecf7982204140d25c7147979317c3c0b63faa6ead0&
 This is a custom loading screen for vee RP FiveM server. It features a YouTube video background, background music, a server name display with a light bar animation, and random tips that appear periodically.
 
 ## Features
